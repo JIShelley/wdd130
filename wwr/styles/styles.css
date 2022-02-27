@@ -175,6 +175,7 @@ footer a:hover{
     grid-column: 1/11;
     grid-row: 4/9;
 }
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
