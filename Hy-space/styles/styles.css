@@ -226,3 +226,54 @@ footer a{
 footer a:hover{
     color: #ecc30b;
 }
+
+/* ----------FAQ page CSS---------- */
+
+#body2{
+    background-color: #F1FAEE;
+}
+
+.faq-grid{
+    margin-top: -100px;
+    text-align: center;
+}
+
+.q-a{
+    text-align: left;
+    background-color:rgba(45, 106, 135, .5);
+}
+
+.two, .four{
+    background-color: #F1FAEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.one{
+    padding-top: 5px;
+}
+.five{
+    padding-bottom: 5px;
+}
+
+section{
+    box-shadow: none;
+}
+
+.faq-button{
+    background-color:#067bc2;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.faq-button:hover{
+    background-color:#84bcda;
+    color:black;
+}
+
+strong{
+    font-size: 25px;
+}
