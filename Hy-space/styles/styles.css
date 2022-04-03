@@ -277,3 +277,59 @@ section{
 strong{
     font-size: 25px;
 }
+
+/* -----------About Us CSS----------- */
+
+#body3{
+    background-color: #F1FAEE;
+}
+
+#owners{
+    width: 25%;
+    place-self: center;
+    border: 10px solid #84bcda;
+    border-radius: 10px;
+}
+
+#img-text{
+    display: grid;
+}
+
+.about-grid{
+    text-align: center;
+    margin-top: -100px;
+}
+
+.about p{
+    font-size: 25px;
+    padding-top: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.about h1{
+    background-color: #84bcda;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 10px;
+}
+
+.goal{
+    padding-top: 50px;
+}
+
+#goal-text{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.goal h1{
+    background-color: #84bcda;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 10px;
+}
+
+.goal p{
+    font-size: 25px;
+}
